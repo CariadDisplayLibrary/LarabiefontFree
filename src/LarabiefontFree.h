@@ -1,7 +1,7 @@
 #ifndef _LARABIEFONTFREE_H
 #define _LARABIEFONTFREE_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t LarabiefontFree10[];
